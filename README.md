@@ -5,8 +5,8 @@ I used KNeighborsClassifier from Scikit-learn library to predict Titanic passeng
 
 Files:
 
-- 'TitanicKNN.ipynb' - my code in Python
-- 'Titanic'- directory with all data: 
+- 'TitanicKNN.ipynb' - my Python code ;
+- 'Titanic'- a directory with all data: 
     -> 'train'- training data used to train the model;
     -> 'dev-0'- valid data used to check model's accuracy;
     -> 'test-A'- test data for which we actually predict;
