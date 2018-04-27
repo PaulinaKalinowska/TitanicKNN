@@ -1,7 +1,7 @@
 # TitanicKNN
 
 Basic learning machine example:
-I used KNeighborsClassifier from Scikit-learn library to predict Titanic passengers' survival.
+I used KNeighborsClassifier from Scikit-learn library to predict Titanic passengers' survival. Achieved accuracy score: 0.7611940298507462
 
 Files:
 
